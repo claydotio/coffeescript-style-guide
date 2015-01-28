@@ -1,0 +1,14 @@
+{
+  "name": "clay-coffeescript-style-guide",
+  "version": "1.0.0",
+  "description": "This guide presents a collection of best-practices and coding conventions for the [CoffeeScript][coffeescript] programming language.",
+  "main": "coffeelint.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claydotio/coffeescript-style-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/claydotio/coffeescript-style-guide/issues"
+  },
+  "homepage": "https://github.com/claydotio/coffeescript-style-guide"
+}
