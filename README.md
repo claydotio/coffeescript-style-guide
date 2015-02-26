@@ -68,7 +68,8 @@ Use a single blank line within the bodies of methods or functions in cases where
 
 <a name="object_braces"/>
 ### Object Braces
-Omit braces for objects unless they are inlined and are followed by other parameters
+Omit braces for objects unless they are inlined
+Prefer omiting braces (add properties on new lines)
 
 <a name="trailing_whitespace"/>
 ### Trailing Whitespace
