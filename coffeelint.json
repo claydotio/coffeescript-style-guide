@@ -39,7 +39,8 @@
         "limitComments": true
     },
     "missing_fat_arrows": {
-        "level": "warn"
+        "level": "warn",
+        "is_strict": true
     },
     "newlines_after_classes": {
         "level": "ignore"
@@ -101,5 +102,19 @@
     },
     "prefer_english_operator": {
         "level": "warn"
+    },
+    "spacing_after_comma": {
+        "level": "warn"
+    },
+    "ensure_comprehensions": {
+        "level": "warn"
+    },
+    "transform_messes_up_line_numbers": {
+        "level": "warn"
+    },
+    "braces_spacing": {
+        "level": "warn",
+        "spaces": 0,
+        "empty_object_spaces": 0
     }
 }
